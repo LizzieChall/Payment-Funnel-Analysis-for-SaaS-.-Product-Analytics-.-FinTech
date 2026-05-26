@@ -215,7 +215,13 @@ Built the following charts in Hex, color-coded by funnel stage:
 
 ## 📊 Results
 
-> *Add screenshots of your Hex charts here.*
+<img width="1731" height="747" alt="payment_funnel_stages" src="https://github.com/user-attachments/assets/02a9749b-1174-461d-907d-3b954576b58e" />
+
+<img width="1737" height="736" alt="payment_funnel_stages_line_chart" src="https://github.com/user-attachments/assets/3abad79f-e571-4a1b-8d8a-858999530ae6" />
+
+
+<img width="1729" height="734" alt="subs_count_by_error_pie_chart" src="https://github.com/user-attachments/assets/2320f177-8f36-4ce3-b947-bef65621860f" />
+
 
 ### Funnel Stage Distribution (All Years)
 
