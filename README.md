@@ -4,7 +4,7 @@
 **Skills:** CTEs · CASE Statements · Subqueries · Window Functions · LEFT JOIN / Anti-Join · Aggregate Functions · Data Wrangling · EDA  
 **Domain:** SaaS · Product Analytics · FinTech  
 
-🔗 [View the full Hex Notebook](https://app.hex.tech/big-sql-energy/hex/Payment-Funnel-Analysis-0334bOJr3Eqd9fXPcstn5C/draft/logic)
+🔗 [View the full Hex Notebook](https://app.hex.tech/big-sql-energy/hex/Payment-Funnel-Analysis-for-SaaS-Product-Analytics-FinTech-033NYsi8E2tJWC1aBJxsIi/draft/logic)
 
 ---
 
