@@ -43,10 +43,12 @@ The analysis was built on a SaaS subscription data model consisting of the follo
 | `Cancelations` | Fact | Cancelation records with up to three reason codes |
 
 
+![Data model](main_data_model.png)
 
 ---
 
 ## 🔀 Payment Funnel Architecture
+![subscription payment funnel stages](subscription_payment_funnel_stages.png)
 
 ```
 Total Subscriptions (59)
@@ -293,5 +295,3 @@ Conversion rate (20.34%), workflow completion rate (34.29%), and error rate (16.
 `SQL` · `CTEs` · `CASE Statements` · `Subqueries` · `Window Functions (ROW_NUMBER + QUALIFY)` · `LEFT JOIN` · `Anti-Join Pattern` · `MAX Aggregation` · `DISTINCT` · `DATE_TRUNC` · `Data Cleaning` · `Data Wrangling` · `Funnel Analysis` · `Product Metrics` · `EDA` · `Data Visualization` · `Python (pandas)` · `Snowflake` · `Hex Notebook` · `Stakeholder Communication`
 
 ---
-
-*Project completed as part of the Big SQL Energy BI Analytics Bootcamp — Chapter 10: Portfolio Projects.*
