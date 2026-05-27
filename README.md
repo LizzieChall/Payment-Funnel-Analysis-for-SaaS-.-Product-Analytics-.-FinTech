@@ -59,15 +59,15 @@ Total Subscriptions (59)
        │
        └─► Payment Entered (max_status = 2)
               │
-              ├─► ⚠️ User Error with Payment Submission
-              │       (max_status = 3 & current_payment_status = 0)
-              │
               └─► Payment Submitted (max_status = 3 & current_payment_status ≠ 0)
                      │
-                     ├─► ⚠️ Payment Processing Error with Vendor
-                     │       (max_status = 4 & current_payment_status = 0)
+                     ├─► ⚠️ User Error with Payment Submission
+                     │     (max_status = 3 & current_payment_status = 0)
                      │
                      └─► Payment Success w/ Vendor (max_status = 4 & current_payment_status ≠ 0)
+                            │
+                            ├─► ⚠️ Payment Processing Error with Vendor
+                            │   (max_status = 4 & current_payment_status = 0)
                             │
                             └─► ✅ Complete (max_status = 5)
 ```
