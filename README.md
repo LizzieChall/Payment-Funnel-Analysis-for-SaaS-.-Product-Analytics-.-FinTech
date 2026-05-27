@@ -37,7 +37,7 @@ The analysis was built on a SaaS subscription data model consisting of the follo
 |---|---|---|
 | `Subscriptions` | Fact | Core subscription records including `current_payment_status`, revenue, and order date |
 | `Payment_Status_Log` | Fact | Event-level log of every payment status movement per subscription |
-| `Payment_Status_Definitions` | Dimension | Maps numeric status IDs (0–5) to human-readable descriptions |
+| `Payment_Status_Definitions` | Dimension | Maps numeric status IDs (0–5) to descriptions |
 | `Customers` | Dimension | Customer profile information |
 | `Products` | Dimension | Product catalog data |
 | `Cancelations` | Fact | Cancelation records with up to three reason codes |
